@@ -265,5 +265,9 @@
 	.remove-bottom { margin-bottom: 0 !important; }
 	.half-bottom { margin-bottom: 10px !important; }
 	.add-bottom { margin-bottom: 20px !important; }
+    .bullets {
+        margin: 10px 30px;
+        list-style: disc outside none;
+    }
 
 
