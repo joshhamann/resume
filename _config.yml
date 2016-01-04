@@ -28,7 +28,7 @@ google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinbu
 postcode: Denver
 city: Colorado
 country: United States
-#google_analytics: UA-69300817-1
+google_analytics: UA-71946444-1
 
 # needed for travis-ci build
 exclude: [vendor]
