@@ -14,22 +14,21 @@ author: Fábio Madeira
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /resume/
-title: Tom Stoneberg's Resume
-name: Tom Stoneberg
-email: tstoneb@gmail.com
-email_full: mailto:tstoneb@gmail.com
-website: tomstoneberg.com
-website_full: http://tomstoneberg.com
-github: stoneyb
-twitter: tstoneb
-tel: +1 970 518 9398
-tel_full: tel:+19705189398
+title: Josh Hamann's Resume
+name: Josh Hamann
+email: joshhamann@gmail.com
+email_full: mailto:joshhamann@gmail.com
+website: joshhamann.com
+website_full: http://joshhamann.com
+github: joshhamann
+tel: +1 719 359 3140
+tel_full: tel:+17193593140
 google_maps: 'https://www.google.com/maps/place/Denver,+CO/'
 place: Denver, CO
 postcode: Denver
 city: Colorado
 country: United States
-google_analytics: UA-71946444-1
+google_analytics: UA-76159685-1
 
 # needed for travis-ci build
 exclude: [vendor]
