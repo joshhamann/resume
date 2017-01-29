@@ -14,15 +14,14 @@
     </article>
     <article>
         <header>
-            <h1>Sr Data Engineer</h1>
+            <h1>Sr Software Engineer</h1>
             <span><address>Clayton, Denver, CO</address><time>2015 to Present</time></span>
         </header>
         <p>
             <ul class="bullets">
-                <li>SQL, Analysis Services, SSIS, SSRS, Tableau, Git, SQLite, Python, Powershell, sklearn, numpy</li>
+                <li>SQL, Analysis Services, SSIS, SSRS, Tableau, Git, SQLite, Python</li>
 		<li>Release Manager for multiple code repos</li>
-		<li>Sole developer on a data application(GLASS4)</li>
-		<li>Response for requirements and design through implementation and release</li>
+		<li>Involved with rearchitecture of Data Warehouse for GLASS</li>
 		<li>Data Modeling, Process and Report Design for new Risk Analytics tool</li>
             </ul>
         </p>
